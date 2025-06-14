@@ -1,0 +1,1 @@
+console.log(  Number.isNaN(parseInt("-10",10)));

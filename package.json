@@ -1,0 +1,24 @@
+{
+  "name": "blackjack-card-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+"scripts": {
+  "dev": "ts-node src/index.ts",
+  "build": "tsc",
+  "start": "node dist/index.js"
+}
+,
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^24.0.1",
+    "@types/prompt-sync": "^4.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
