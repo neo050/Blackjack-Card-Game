@@ -1,4 +1,4 @@
-import Card from "./card"
+import Card from "./Card"
 import {cardType as CardSuit,cardValue} from "./types";
 class Deck
 {
